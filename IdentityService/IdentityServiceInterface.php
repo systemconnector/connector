@@ -1,6 +1,6 @@
 <?php
 
-namespace PlentyConnector\Connector\Identity;
+namespace PlentyConnector\Connector\IdentityService;
 
 use PlentyConnector\Connector\TransferObject\Identity\IdentityInterface;
 

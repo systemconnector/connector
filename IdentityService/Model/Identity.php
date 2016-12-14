@@ -1,9 +1,9 @@
 <?php
 
-namespace PlentyConnector\Connector\Identity\Model;
+namespace PlentyConnector\Connector\IdentityService\Model;
 
 use Doctrine\ORM\Mapping as ORM;
-use PlentyConnector\Connector\Identity\Model\IdentityRepository;
+use PlentyConnector\Connector\IdentityService\Model\IdentityRepository;
 
 /**
  * Class Identity.

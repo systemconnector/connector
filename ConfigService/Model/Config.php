@@ -1,6 +1,6 @@
 <?php
 
-namespace PlentyConnector\Connector\Config\Model;
+namespace PlentyConnector\Connector\ConfigService\Model;
 
 use Doctrine\ORM\Mapping as ORM;
 

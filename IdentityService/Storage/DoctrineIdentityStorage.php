@@ -1,10 +1,10 @@
 <?php
 
-namespace PlentyConnector\Connector\Identity\Storage;
+namespace PlentyConnector\Connector\IdentityService\Storage;
 
 use Doctrine\ORM\EntityManagerInterface;
-use PlentyConnector\Connector\Identity\Model\Identity as IdentityModel;
-use PlentyConnector\Connector\Identity\Model\IdentityRepository;
+use PlentyConnector\Connector\IdentityService\Model\Identity as IdentityModel;
+use PlentyConnector\Connector\IdentityService\Model\IdentityRepository;
 use PlentyConnector\Connector\TransferObject\Identity\Identity;
 use PlentyConnector\Connector\TransferObject\Identity\IdentityInterface;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace PlentyConnector\Connector\Identity\Model;
+namespace PlentyConnector\Connector\IdentityService\Model;
 
 use Doctrine\ORM\EntityRepository;
 

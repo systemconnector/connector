@@ -1,10 +1,10 @@
 <?php
 
-namespace PlentyConnector\Connector\CommandBus\Middleware;
+namespace PlentyConnector\Connector\CommandBus\CommandHandlerMiddleware;
 
 use League\Tactician\Middleware;
 use PlentyConnector\Connector\CommandBus\Command\CommandInterface;
-use PlentyConnector\Connector\CommandBus\Handler\CommandHandlerInterface;
+use PlentyConnector\Connector\CommandBus\CommandHandler\CommandHandlerInterface;
 
 /**
  * Class CommandHandlerMiddleware.

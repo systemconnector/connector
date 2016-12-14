@@ -1,8 +1,8 @@
 <?php
 
-namespace PlentyConnector\Connector\Config;
+namespace PlentyConnector\Connector\ConfigService;
 
-use PlentyConnector\Connector\Config\Model\Config as ConfigModel;
+use PlentyConnector\Connector\ConfigService\Model\Config as ConfigModel;
 use Shopware\Components\Model\ModelManager;
 
 /**

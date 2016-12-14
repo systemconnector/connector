@@ -1,6 +1,6 @@
 <?php
 
-namespace PlentyConnector\Connector\CommandBus\Handler;
+namespace PlentyConnector\Connector\CommandBus\CommandHandler;
 
 use PlentyConnector\Connector\CommandBus\Command\CommandInterface;
 

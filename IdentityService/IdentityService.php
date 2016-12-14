@@ -1,9 +1,9 @@
 <?php
 
-namespace PlentyConnector\Connector\Identity;
+namespace PlentyConnector\Connector\IdentityService;
 
 use Assert\Assertion;
-use PlentyConnector\Connector\Identity\Storage\IdentityStorageInterface;
+use PlentyConnector\Connector\IdentityService\Storage\IdentityStorageInterface;
 use PlentyConnector\Connector\TransferObject\Identity\Identity;
 use Ramsey\Uuid\Uuid;
 

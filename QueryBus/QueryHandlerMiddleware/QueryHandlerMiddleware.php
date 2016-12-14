@@ -1,9 +1,9 @@
 <?php
 
-namespace PlentyConnector\Connector\QueryBus\Middleware;
+namespace PlentyConnector\Connector\QueryBus\QueryHandlerMiddleware;
 
 use League\Tactician\Middleware;
-use PlentyConnector\Connector\QueryBus\Handler\QueryHandlerInterface;
+use PlentyConnector\Connector\QueryBus\QueryHandler\QueryHandlerInterface;
 use PlentyConnector\Connector\QueryBus\Query\QueryInterface;
 
 /**

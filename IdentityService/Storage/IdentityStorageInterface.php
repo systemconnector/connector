@@ -1,6 +1,6 @@
 <?php
 
-namespace PlentyConnector\Connector\Identity\Storage;
+namespace PlentyConnector\Connector\IdentityService\Storage;
 
 use PlentyConnector\Connector\TransferObject\Identity\IdentityInterface;
 

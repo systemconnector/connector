@@ -1,6 +1,6 @@
 <?php
 
-namespace PlentyConnector\Connector\QueryBus\Handler;
+namespace PlentyConnector\Connector\QueryBus\QueryHandler;
 
 use PlentyConnector\Connector\QueryBus\Query\QueryInterface;
 
